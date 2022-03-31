@@ -1,0 +1,16 @@
+#* java -ea jump61.Main
+# Random test
+seed 100987
+size 4
+1 1
+1 3
+1 1
+2 1
+3 1
+1 1
+4 1
+dump
+3 4
+3 4
+#*move/win+
+quit
